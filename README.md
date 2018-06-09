@@ -1,4 +1,4 @@
-# API
+# 0、API
 
 ### 有道词典发音接口
 http://dict.youdao.com/speech?audio=dog
@@ -11,13 +11,16 @@ https://github.com/FanfouAPI/FanFouAPIDoc/wiki
 
 
 
-# 可以通过使用Jsoup解析html提供数据的网站
+# 1、可以通过使用Jsoup解析html提供数据的网站
 
 ### 每日一文
 https://meiriyiwen.com/
 
 ### 励志一生
 http://www.lz13.cn/
+
+以上两个网站的成果
+!(简读)[http://www.anzhi.com/soft_2990232.html]
 
 ### 古诗文网
 https://www.gushiwen.org/
