@@ -19,8 +19,7 @@ https://meiriyiwen.com/
 ### 励志一生
 http://www.lz13.cn/
 
-以上两个网站的成果
-!(简读)[http://www.anzhi.com/soft_2990232.html]
+使用以上两个网站开发的APP-简读 http://www.anzhi.com/soft_2990232.html
 
 ### 古诗文网
 https://www.gushiwen.org/
