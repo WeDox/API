@@ -24,3 +24,6 @@ http://www.lz13.cn/
 ### 古诗文网
 https://www.gushiwen.org/
 
+### 恒星英语
+http://www.hxen.com/
+
