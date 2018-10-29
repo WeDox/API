@@ -1,7 +1,12 @@
 # 0、API
 
 ### 有道词典发音接口
-http://dict.youdao.com/speech?audio=dog
+(英)
+http://dict.youdao.com/speech?type=1&audio=apple
+（美）
+http://dict.youdao.com/speech?type=2&audio=apple
+
+
 
 ### 获取必应每日一图（郭霖）
 http://guolin.tech/api/bing_pic
