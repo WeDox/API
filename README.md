@@ -1,9 +1,10 @@
 # 0、API
 
 ### 有道词典发音接口
-####(英)
+### (英)
 http://dict.youdao.com/speech?type=1&audio=apple
-####（美）
+
+### （美）
 http://dict.youdao.com/speech?type=2&audio=apple
 
 
