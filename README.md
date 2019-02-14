@@ -15,6 +15,9 @@ http://guolin.tech/api/bing_pic
 ### 饭否接口
 https://github.com/FanfouAPI/FanFouAPIDoc/wiki
 
+### GitHub用户MZCretin提供的免费API
+https://github.com/MZCretin/RollToolsApi
+
 
 
 # 1、可以通过使用Jsoup解析html提供数据的网站
